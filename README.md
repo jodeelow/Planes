@@ -8,4 +8,4 @@ Instructions:
    ~when '*' shows a plane body is hit
    ~when '#' shows a plane pilot cabin is hit(all plane shows up on the table)
    ~when 'o' shows it means that it's a missed shot
-->4.The game ends when one of the players take down all 3 planes
+->4.The game ends when one of the players takes down all 3 opponent's planes.
